@@ -3,8 +3,8 @@ import os
 from flask import Flask
 from dotenv import load_dotenv
 
-from src.api.Server.AppConfig import AppConfig
-from src.api.Server.Application import Application
+from src.Server.AppConfig import AppConfig
+from src.Server.Application import Application
 
 load_dotenv()
 

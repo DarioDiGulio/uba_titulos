@@ -1,6 +1,6 @@
 from flask import Flask
 
-from src.api.Server.AppConfig import AppConfig
+from src.Server.AppConfig import AppConfig
 
 
 class Application:
