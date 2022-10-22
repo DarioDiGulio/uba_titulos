@@ -1,7 +1,7 @@
 from flask import Flask
 
-from src.server.AppConfig import AppConfig
-from src.server.controllers.HomeController import HomeController
+from server.AppConfig import AppConfig
+from server.controllers.HomeController import HomeController
 
 
 class Application:
